@@ -31,7 +31,7 @@ L’application sera accessible à l’adresse :
 ```
 
 ## 🧩 Stack technique
-Élément	Description
+Élément	Description<br>
 Laravel 11	Framework PHP moderne basé sur le modèle MVC<br>
 Vite	Outil de build ultra rapide pour JS/CSS<br>
 SQLite	Base de données légère, prête à l’emploi (aucune config requise)<br>
