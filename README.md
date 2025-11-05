@@ -32,10 +32,10 @@ L’application sera accessible à l’adresse :
 
 ## 🧩 Stack technique
 Élément	Description
-Laravel 11	Framework PHP moderne basé sur le modèle MVC
-Vite	Outil de build ultra rapide pour JS/CSS
-SQLite	Base de données légère, prête à l’emploi (aucune config requise)
-Blade	Moteur de templates intégré à Laravel
+Laravel 11	Framework PHP moderne basé sur le modèle MVC<br>
+Vite	Outil de build ultra rapide pour JS/CSS<br>
+SQLite	Base de données légère, prête à l’emploi (aucune config requise)<br>
+Blade	Moteur de templates intégré à Laravel<br>
 Eloquent ORM	Gestion des modèles et relations entre les données
 
 ## 🧠 Laravel, c’est quoi ?
@@ -44,42 +44,43 @@ Laravel est un framework PHP open source qui facilite le développement d’appl
 Il repose sur l’architecture MVC (Model–View–Controller) :
 
 Model → représente les données et leur logique (ex : User, Post)
-View → gère l’affichage (templates Blade)
+View → gère l’affichage (templates Blade)<br>
 Controller → fait le lien entre la logique et la vue (gère les requêtes, les actions utilisateur)
 
 C’est un modèle clair, organisé et idéal pour séparer les responsabilités dans le code.
 
 ## 🧪 Fonctionnalités
 
-- Création d’utilisateurs via les formulaires Laravel
-- Gestion des rôles et permissions (Spatie)
-- Migrations & seeders automatisés
-- Interface responsive servie par Vite
-- Système d’authentification Laravel natif
+- Création d’utilisateurs via les formulaires Laravel<br>
+- Gestion des rôles et permissions (Spatie)<br>
+- Migrations & seeders automatisés<br>
+- Interface responsive servie par Vite<br>
+- Système d’authentification Laravel natif<br>
 - Architecture MVC propre et évolutive
 
 🧱 Commandes utiles
 
+Installe et configure tout le projet
 ```bash
 make install
-Installe et configure tout le projet
 ```
 
+Lance le serveur Laravel
 ```bash
 make serve
-Lance le serveur Laravel
 ```
 
+Compile les fichiers front (Vite)
 ```bash
 make build
-Compile les fichiers front (Vite)
 ```
 
+Réinitialise la base SQLite
 ```bash
 make reset
-Réinitialise la base SQLite
 ```
 
+Vide les caches Laravel
 ```bash
 make clean
-Vide les caches Laravel```
+```
