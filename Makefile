@@ -15,7 +15,7 @@ install:
 
 serve:
 	@echo "🚀 Lancement du serveur Laravel..."
-	@php artisan serve
+	@php artisan serve & npm run dev
 
 build:
 	@echo "🧱 Compilation des assets front..."
