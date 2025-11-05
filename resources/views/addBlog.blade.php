@@ -40,8 +40,8 @@
             <div class="row gx-4 gx-lg-5 justify-content-center">
                 <div class="col-md-10 col-lg-8 col-xl-7">
                     <div class="post-heading">
-                        <h1>Creation d'article</h1>
-                        <h2 class="subheading">La ou tous se crée</h2>
+                        <h1>Création d'article</h1>
+                        <h2 class="subheading">Là où tout se crée</h2>
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@
                             </a>
                         </li>
                         <li class="list-inline-item">
-                            <a href="https://www.linkedin.com/in/enzo-boron/">
+                            <a href="https://www.linkedin.com/in/enzo-boron/" target="_blank">
                                 <span class="fa-stack fa-lg">
                                     <i class="fas fa-circle fa-stack-2x"></i>
                                     <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -91,7 +91,7 @@
                             </a>
                         </li>
                         <li class="list-inline-item">
-                            <a href="https://github.com/EnzoBoron?tab=repositories">
+                            <a href="https://github.com/EnzoBoron?tab=repositories" target="_blank">
                                 <span class="fa-stack fa-lg">
                                     <i class="fas fa-circle fa-stack-2x"></i>
                                     <i class="fab fa-github fa-stack-1x fa-inverse"></i>

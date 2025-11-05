@@ -51,7 +51,7 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
-                        <p>Je suis Enzo Boron, et j’ai créé ce mini-blog pour présenter mes compétences à mes clients. J’ai voulu concevoir un site simple et efficace, mettant en avant différents concepts essentiels : ajouter un commentaire sous un article, écrire un article, ou encore l’algorithme de connexion.</p>
+                        <p>Je suis Enzo Boron, et j’ai créé ce mini-blog pour montrer ce dont je suis capable. Mon objectif était de concevoir un site simple, fonctionnel et bien structuré, qui met en avant plusieurs concepts clés : la publication et la gestion d’articles, l’ajout de commentaires, ainsi qu’un algorithme de connexion entièrement codé par moi.</p>
                         <p>Ce site a été développé avec Laravel 11, un framework que j’apprécie particulièrement pour sa sécurité et sa structure en MVC (Modèle-Vue-Contrôleur), garantissant une organisation claire et une gestion optimisée des données.</p>
                         <p>Si vous recherchez un développeur backend spécialisé en Laravel, je serais ravi d’échanger avec vous et de répondre à vos besoins.</p>
                     </div>
@@ -73,7 +73,7 @@
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="https://www.linkedin.com/in/enzo-boron/">
+                                <a href="https://www.linkedin.com/in/enzo-boron/" target="_blank">
                                     <span class="fa-stack fa-lg">
                                         <i class="fas fa-circle fa-stack-2x"></i>
                                         <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -81,7 +81,7 @@
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="https://github.com/EnzoBoron?tab=repositories">
+                                <a href="https://github.com/EnzoBoron?tab=repositories" target="_blank">
                                     <span class="fa-stack fa-lg">
                                         <i class="fas fa-circle fa-stack-2x"></i>
                                         <i class="fab fa-github fa-stack-1x fa-inverse"></i>
